@@ -1,0 +1,7 @@
+{
+  "timestamp": 1547489954144,
+  "status": 401,
+  "error": "Unauthorized",
+  "message": "No message available",
+  "path": "/resources"
+}

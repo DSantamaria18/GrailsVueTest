@@ -1,0 +1,36 @@
+GET http://localhost:8080/
+Accept: */*
+Cache-Control: no-cache
+Authorization: qrD6h8K6S9503Q06Y6Rfk21TErImPYqa
+X-Auth-Token: qrD6h8K6S9503Q06Y6Rfk21TErImPYqa
+
+<> 2019-01-14T072029.401.json
+
+###
+
+GET http://localhost:8080/
+Accept: */*
+Cache-Control: no-cache
+Authorization: qrD6h8K6S9503Q06Y6Rfk21TErImPYqa
+
+<> 2019-01-14T071931.401.json
+
+###
+
+GET http://localhost:8080/resources
+Accept: */*
+Cache-Control: no-cache
+Authorization: qrD6h8K6S9503Q06Y6Rfk21TErImPYqa
+
+<> 2019-01-14T071914.401.json
+
+###
+
+GET http://localhost:8080/resources
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-14T071810.401.json
+
+###
+
